@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/divyasree-dolly/LeetHub/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/0371-sum-of-two-integers) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## String
 |  |
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/divyasree-dolly/LeetHub/tree/master/0367-valid-perfect-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
