@@ -6,7 +6,7 @@ class Solution {
 
         if(n2> n1)  return -1;
         if(n2==0) return 0;
-        if(haystack.equals(needle)) return 0;
+        // if(haystack.equals(needle)) return 0;
         if(haystack == null || needle == null) return -1;
         for(int i = 0; i<= n1-n2; i++)
         {
