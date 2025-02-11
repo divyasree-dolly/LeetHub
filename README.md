@@ -9,11 +9,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/divyasree-dolly/LeetHub/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/divyasree-dolly/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [3398-make-a-square-with-the-same-color](https://github.com/divyasree-dolly/LeetHub/tree/master/3398-make-a-square-with-the-same-color) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/divyasree-dolly/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/0371-sum-of-two-integers) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -33,10 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/divyasree-dolly/LeetHub/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
@@ -52,10 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/divyasree-dolly/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/divyasree-dolly/LeetHub/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
