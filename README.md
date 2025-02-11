@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyasree-dolly/LeetHub/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/divyasree-dolly/LeetHub/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/divyasree-dolly/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/0219-contains-duplicate-ii) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyasree-dolly/LeetHub/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/divyasree-dolly/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
