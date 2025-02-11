@@ -1,19 +1,26 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) 
     {
-        Set set = new HashSet();
         int n=nums.length;
         List list = new ArrayList();
+        //changing the orignal array if the number at it's position exists to -ve
         for(int i=0;i<n;i++)
         {
-            set.add(nums[i]);
-        }   
-        for(int i=1;i<=n;i++)
-        {
-            if(!set.contains(i))
+            int ind = Math.abs(nums[i]);
+            if(nums[ind-1]>0)
             {
-                list.add(i);
+                nums[ind-1]*=-1;
             }
+        }   
+
+        //adding non -ve values to the list
+        for(int i=0;i<n;i++)
+        {
+            if(nums[i]>0)
+            {
+                list.add(i+1);
+            }
+            
         }
 
         return list;
