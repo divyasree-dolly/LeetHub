@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyasree-dolly/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/divyasree-dolly/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyasree-dolly/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyasree-dolly/LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/divyasree-dolly/LeetHub/tree/master/0367-valid-perfect-square) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/divyasree-dolly/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyasree-dolly/LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
