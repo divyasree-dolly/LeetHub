@@ -1,30 +1,37 @@
 class Solution {
     public long repairCars(int[] ranks, int cars) {
-         Arrays.sort(ranks);
-        long left = 1, right =  (long) ranks[0] * (long) cars * (long) cars; //  rank * (cars) see the constraints , it will be 100*(100^6)^2 = 10^14
-        long result = right;
+        long minVal = 10000000;
         
-        while (left <= right) {
-            long mid = left + (right - left) / 2;
-            if (canRepairInTime(ranks, cars, mid)) {
-                result = mid;
-                right = mid - 1; // Try a smaller time
+        // Find the minimum rank
+        for (int rank : ranks) {
+            minVal = Math.min(minVal, rank);
+        }
+        
+        long l = minVal, r = minVal * (long) cars * cars, mid, ans = 0;
+        
+        // Binary search for the minimum required time
+        while (l <= r) {
+            mid = (l + r) / 2;
+            if (isPossible(ranks, cars, mid)) {
+                ans = mid;  // Update answer
+                r = mid - 1; // Try to find a smaller time
             } else {
-                left = mid + 1; // Increase time
+                l = mid + 1;
             }
         }
         
-        return result;
+        return ans;
     }
-
-    private boolean canRepairInTime(int[] ranks, int cars, long time) {
-        long repairedCars = 0;
-        for (int rank : ranks) {
-            repairedCars += (long) Math.sqrt(time / rank); // Max cars this mechanic can repair
-            if (repairedCars >= cars) return true; // No  to check further
-        }
-        return repairedCars >= cars;
     
-
+    // Function to check if all cars can be repaired within 'minutes'
+    public boolean isPossible(int[] ranks, int cars, long minutes) {
+        for (int rank : ranks) {
+            cars -= (int) Math.sqrt(minutes / rank);
+            if (cars <= 0) {
+                return true;  // Successfully repaired all cars
+            }
+        }
+        
+        return false; // Not enough cars repaired
     }
 }
