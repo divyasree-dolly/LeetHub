@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyasree-dolly/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyasree-dolly/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/divyasree-dolly/LeetHub/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyasree-dolly/LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/divyasree-dolly/LeetHub/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/divyasree-dolly/LeetHub/tree/master/2690-house-robber-iv) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyasree-dolly/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/divyasree-dolly/LeetHub/tree/master/2478-longest-nice-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyasree-dolly/LeetHub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divyasree-dolly/LeetHub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/divyasree-dolly/LeetHub/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
