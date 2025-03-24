@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/divyasree-dolly/LeetHub/tree/master/2690-house-robber-iv) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/divyasree-dolly/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3398-make-a-square-with-the-same-color](https://github.com/divyasree-dolly/LeetHub/tree/master/3398-make-a-square-with-the-same-color) |
+| [3430-count-days-without-meetings](https://github.com/divyasree-dolly/LeetHub/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyasree-dolly/LeetHub/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/3643-zero-array-transformation-ii) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/divyasree-dolly/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyasree-dolly/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3430-count-days-without-meetings](https://github.com/divyasree-dolly/LeetHub/tree/master/3430-count-days-without-meetings) |
 ## Sliding Window
 |  |
 | ------- |
