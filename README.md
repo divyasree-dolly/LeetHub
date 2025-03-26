@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/divyasree-dolly/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyasree-dolly/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divyasree-dolly/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/divyasree-dolly/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyasree-dolly/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/divyasree-dolly/LeetHub/tree/master/2478-longest-nice-subarray) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/divyasree-dolly/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/0371-sum-of-two-integers) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divyasree-dolly/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divyasree-dolly/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3398-make-a-square-with-the-same-color](https://github.com/divyasree-dolly/LeetHub/tree/master/3398-make-a-square-with-the-same-color) |
 ## Enumeration
 |  |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/divyasree-dolly/LeetHub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyasree-dolly/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divyasree-dolly/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/divyasree-dolly/LeetHub/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/divyasree-dolly/LeetHub/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
