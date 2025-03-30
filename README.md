@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0768-partition-labels](https://github.com/divyasree-dolly/LeetHub/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyasree-dolly/LeetHub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/divyasree-dolly/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/divyasree-dolly/LeetHub/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/divyasree-dolly/LeetHub/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0768-partition-labels](https://github.com/divyasree-dolly/LeetHub/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/divyasree-dolly/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/divyasree-dolly/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## String Matching
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyasree-dolly/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0768-partition-labels](https://github.com/divyasree-dolly/LeetHub/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyasree-dolly/LeetHub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyasree-dolly/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/divyasree-dolly/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/divyasree-dolly/LeetHub/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/divyasree-dolly/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
