@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/divyasree-dolly/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyasree-dolly/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divyasree-dolly/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divyasree-dolly/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/divyasree-dolly/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/divyasree-dolly/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/divyasree-dolly/LeetHub/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/0371-sum-of-two-integers) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divyasree-dolly/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divyasree-dolly/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/divyasree-dolly/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divyasree-dolly/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3398-make-a-square-with-the-same-color](https://github.com/divyasree-dolly/LeetHub/tree/master/3398-make-a-square-with-the-same-color) |
 ## Binary Search
 |  |
@@ -83,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/divyasree-dolly/LeetHub/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divyasree-dolly/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/divyasree-dolly/LeetHub/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/divyasree-dolly/LeetHub/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/divyasree-dolly/LeetHub/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -225,4 +229,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/divyasree-dolly/LeetHub/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divyasree-dolly/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/divyasree-dolly/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
