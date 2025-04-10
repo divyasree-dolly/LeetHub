@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyasree-dolly/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divyasree-dolly/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/divyasree-dolly/LeetHub/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-determine-color-of-a-chessboard-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/divyasree-dolly/LeetHub/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/divyasree-dolly/LeetHub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/divyasree-dolly/LeetHub/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
 |  |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/divyasree-dolly/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyasree-dolly/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/divyasree-dolly/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Shortest Path
 |  |
 | ------- |
