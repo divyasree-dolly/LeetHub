@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/divyasree-dolly/LeetHub/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/divyasree-dolly/LeetHub/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyasree-dolly/LeetHub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
