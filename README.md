@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/divyasree-dolly/LeetHub/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/divyasree-dolly/LeetHub/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/divyasree-dolly/LeetHub/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/divyasree-dolly/LeetHub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/divyasree-dolly/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/divyasree-dolly/LeetHub/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/divyasree-dolly/LeetHub/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/divyasree-dolly/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/divyasree-dolly/LeetHub/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/divyasree-dolly/LeetHub/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/divyasree-dolly/LeetHub/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/divyasree-dolly/LeetHub/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/divyasree-dolly/LeetHub/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/divyasree-dolly/LeetHub/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/divyasree-dolly/LeetHub/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/divyasree-dolly/LeetHub/tree/master/2415-count-the-number-of-ideal-arrays) |
