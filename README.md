@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/divyasree-dolly/LeetHub/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divyasree-dolly/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyasree-dolly/LeetHub/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1656-count-good-triplets](https://github.com/divyasree-dolly/LeetHub/tree/master/1656-count-good-triplets) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/divyasree-dolly/LeetHub/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyasree-dolly/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/divyasree-dolly/LeetHub/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/divyasree-dolly/LeetHub/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/divyasree-dolly/LeetHub/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/divyasree-dolly/LeetHub/tree/master/2998-count-symmetric-integers) |
 | [3398-make-a-square-with-the-same-color](https://github.com/divyasree-dolly/LeetHub/tree/master/3398-make-a-square-with-the-same-color) |
