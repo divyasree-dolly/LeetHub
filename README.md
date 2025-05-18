@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/divyasree-dolly/LeetHub/tree/master/0038-count-and-say) |
+| [0344-reverse-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/divyasree-dolly/LeetHub/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/divyasree-dolly/LeetHub/tree/master/0868-push-dominoes) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/divyasree-dolly/LeetHub/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/divyasree-dolly/LeetHub/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/divyasree-dolly/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/divyasree-dolly/LeetHub/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/divyasree-dolly/LeetHub/tree/master/0868-push-dominoes) |
